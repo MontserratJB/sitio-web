@@ -1,4 +1,4 @@
 Sitio web de ejemplo
 ====================
 
-Este es un sitio web para mostrar la programación de GitHub 
+Este es un sitio web para mostrar la programación de GitHub Pages 
